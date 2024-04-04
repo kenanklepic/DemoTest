@@ -1,7 +1,7 @@
 const { expect } = require('@wdio/globals')
 const InputsPage = require('../pageobjects/inputs')
 
-describe('Input a number into input field', () => {
+describe('kkk', () => {
     it('input a given number', async () => {
         await InputsPage.open();
 
